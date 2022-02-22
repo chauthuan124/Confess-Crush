@@ -1,20 +1,17 @@
 const CONFIG = {
-    titleWeb: "ltt",
-    introTitle: 'gửi tới ng mik thương',
-    introDesc: `Trái đất vốn lạ thường
-    Mà sao em cứ đi nhầm đường
-    Lạc vào tim anh lẻ loi
-    Đằng sau chữ yêu đây là thương`,
+    titleWeb: "fromlttwithlove",
+    introTitle: 'gửi tới mf Nhi',
+    introDesc: `t thì F0 m thì F1 nhưng cùng điểm chung là FA`,
     btnIntro: '^^HiHi^^',
-    title: 'Phải chăng em đã yêu ngay từ cái nhìn đầu tiên 🥰',
-    desc: 'Phải chăng em đã say ngay từ lúc thấy nụ cười ấy ',
+    title: 'Every time I see you, I get lost. If I’m dreaming, please don’t wake me up🥰',
+    desc: 'Cảm ơn gió, cảm ơn mưa, cảm ơn định mệnh đã cho chúng ta gặp nhau ',
     btnYes: 'Thích lắm <33',
-    btnNo: 'Không nha :3',
-    question: 'Trên thế giới hơn 7 tỉ người mà sao bạn lại yêu mình <3',
+    btnNo: 'không thik sến quá! :33',
+    question: 'mày thấy bạn Ltt là người như thế nào?',
     btnReply: 'Gửi cho bạn <3',
-    reply: 'Yêu thì yêu mà không yêu thì yêu <33333333',
-    mess: 'Mình biết mà 🥰. Yêu bạn nhiều nhiều 😘😘',
-    messDesc: 'Tối nay 7h, mình qua đón đi chơi nha.',
+    reply: 'soái ca, thông minh, ga lăng,mạnh mẽ, hài hước,hiền lanh,... ',
+    mess: 'Mình biết mà 🥰 có cần khen đến v đâu',
+    messDesc: 'Nhớ ún nước cam chanh nước lọc nhiều để khỏi dính gì nha :)))',
     btnAccept: 'Okiiiii lun <3',
     messLink: 'https://github.com/zukahai/Confess-Crush' //link mess của các bạn. VD: https://m.me/nam.nodemy
 }
