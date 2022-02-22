@@ -9,7 +9,7 @@ const CONFIG = {
     btnNo: 'không thik sến quá! :33',
     question: 'mày thấy bạn Ltt là người như thế nào?',
     btnReply: 'Gửi cho bạn <3',
-    reply: 'soái ca, thông minh, ga lăng,mạnh mẽ, hài hước,hiền lanh,... ',
+    reply: 'soái ca, thông minh, ga lăng,mạnh mẽ, hài hước,hiền lành,... ',
     mess: 'Mình biết mà 🥰 có cần khen đến v đâu',
     messDesc: 'Nhớ ún nước cam chanh nước lọc nhiều để khỏi dính gì nha :)))',
     btnAccept: 'Okiiiii lun <3',
